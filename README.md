@@ -15,4 +15,6 @@ My OS https://www.youtube.com/watch?v=e3EGMEC1wqA MESA fast portage my work job 
 
 Help donate griggorii@gmail.com graphics fast job works + best include
 
+Обновлено 26.03.2020 + glx
+
 
