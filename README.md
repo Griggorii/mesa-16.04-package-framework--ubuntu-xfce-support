@@ -14,3 +14,5 @@ $$ sudo update-initramfs -u -v && update-grub
 My OS https://www.youtube.com/watch?v=e3EGMEC1wqA MESA fast portage my work job tarball pack archive
 
 Help donate griggorii@gmail.com graphics fast job works + best include
+
+
